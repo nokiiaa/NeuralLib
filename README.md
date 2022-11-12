@@ -14,4 +14,5 @@ This library is created for self-educational purposes and may not suit professio
 - Both software and CUDA backends
 
 It's unoptimized at the moment, and is way less functional than prominent ML libraries, but multi-layer perceptrons (MLPs) and CNNs have been shown to successfully train and classify handwritten digits at relatively high accuracy.
+
 [A CNN being evaluated on the MNIST test data examples](https://i.imgur.com/PIFc9Gl.png)
